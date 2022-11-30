@@ -1,0 +1,2 @@
+#!/bin/bash
+print("My name is Martin")
