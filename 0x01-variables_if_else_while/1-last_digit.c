@@ -4,7 +4,8 @@
 /**
  * main - evaluates if greater than 5, is o or less than 6
  *
- * Return: 0 
+ * Return: 0
+ *
  */
 int main(void)
 
