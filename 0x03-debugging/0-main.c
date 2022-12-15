@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * main - tests that it  prints if integer is positive or negative
  * Return: 0
