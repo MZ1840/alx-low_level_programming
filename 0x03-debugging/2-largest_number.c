@@ -1,6 +1,6 @@
 #include "MAIN_H"
 /**
- * largest_number - returns the largest of 3 numbers
+ * largest_number - It returns the largest of 3 numbers
  * @a: first integer
  * @b: second integer
  * @c: third integer
